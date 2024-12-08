@@ -57,7 +57,7 @@ members. It's a place where people help each other out.
 
 ## <a name="features">🔋 Features</a>
 
-👉 **Stunning Sections**: Includes hero, features, pricing (monthly/yearly), FAQ, testimonials, and download software
+👉 **Stunning Sections**: Includes hero, features, jobs (monthly/yearly), FAQ, testimonials, and download software
 sections.
 
 👉 **Smooth Animations**: Complex CSS for fluid animations and eye-catching effects.
@@ -412,40 +412,40 @@ export default {
   }
 
   /* END of Feature */
-  /* START of Pricing */
-  .pricing-head_before {
+  /* START of Jobs */
+  .jobs-head_before {
     @apply before:absolute before:-bottom-44 before:left-1/5 before:h-96 before:w-13/20 before:bg-s4/50 before:blur-[200px] before:content-[''];
   }
 
-  .pricing-head_btn {
+  .jobs-head_btn {
     @apply base-bold relative z-2 h-16 flex-1 uppercase text-p5 transition-colors duration-500 hover:text-p4;
   }
 
-  .pricing-head_btn_before {
+  .jobs-head_btn_before {
     @apply before:absolute before:-top-16 before:left-9 before:right-9 before:bg-s4 before:blur-xl before:content-[""];
   }
 
-  .pricing-bg {
+  .jobs-bg {
     @apply pointer-events-none absolute -bottom-16 left-[calc(50%-480px)] z-2 mx-auto w-960;
   }
 
-  .pricing-plan_first {
+  .jobs-plan_first {
     @apply first:rounded-bl-3xl first:rounded-tl-3xl lg:first:border-r-0;
   }
 
-  .pricing-plan_last {
+  .jobs-plan_last {
     @apply last:rounded-br-3xl last:rounded-tr-3xl lg:last:border-l-0;
   }
 
-  .pricing-plan_odd {
+  .jobs-plan_odd {
     @apply odd:border-s3 odd:bg-s1 lg:odd:mt-12;
   }
 
-  .pricing-plan_even {
+  .jobs-plan_even {
     @apply even:g7 even:rounded-bl-3xl even:rounded-br-3xl even:rounded-tl-3xl even:rounded-tr-3xl even:border-s4;
   }
 
-  /* END of Pricing */
+  /* END of Jobs */
   /* START of FAQ */
   .faq-line_after {
     @apply after:absolute after:-top-1.5 after:left-[calc(50%-5px)] after:z-4 after:size-2.5 after:rounded-half after:border-2 after:border-s2 after:bg-s1 after:content-[''];
