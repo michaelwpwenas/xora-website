@@ -162,7 +162,7 @@ export const testimonials = [
     id: "0",
     name: "Jessica Skywalker",
     role: "Coelispices Guild of Bene Magdala",
-    avatarUrl: "/images/testimonials/jessica-saunders.png",
+    avatarUrl: "/images/testimonials/scifi-6.gif",
     comment:
       "Navajagat's citizen support is second to none! They’re like my tech superheroes, always there when I need them.",
   },
@@ -170,7 +170,7 @@ export const testimonials = [
     id: "1",
     name: "Marxxerion",
     role: "Aluxhim Socialist Republic of Alpha Centauri",
-    avatarUrl: "/images/testimonials/mark-erixon.png",
+    avatarUrl: "/images/testimonials/scifi-5.gif",
     comment:
       "I was skeptical at first, but now I can't imagine our content operations without it. It's that impactful.",
   },
@@ -178,7 +178,7 @@ export const testimonials = [
     id: "2",
     name: "Melon Urst",
     role: "Coelispices Guild of the Stoneworkers",
-    avatarUrl: "/images/testimonials/melanie-hurst.png",
+    avatarUrl: "/images/testimonials/scifi-4.gif",
     comment:
       "Adopting this software was a breeze. It's made everyday tasks so much simpler.",
   },
@@ -186,7 +186,7 @@ export const testimonials = [
     id: "3",
     name: "Alizba'k",
     role: "Aluxhim Socialist Republic of Sola Prima",
-    avatarUrl: "/images/testimonials/alicia-barker.png",
+    avatarUrl: "/images/testimonials/scifi-3.gif",
     comment:
       "The analytics feature is like having a personal fortune teller. It's been instrumental in guiding our administrative decisions.",
   },
@@ -194,7 +194,7 @@ export const testimonials = [
     id: "4",
     name: "Backsneeze",
     role: "Anarchist Scum from Orion's Belt",
-    avatarUrl: "/images/testimonials/becky-snider.png",
+    avatarUrl: "/images/testimonials/scifi-2.gif",
     comment:
       "Switched on to this last month, and I guess I'm already seeing results. Eh, I guess I like the interface?",
   },
@@ -202,7 +202,7 @@ export const testimonials = [
     id: "5",
     name: "Jim Neptune",
     role: "Coelispices Guild of the Lotus Order",
-    avatarUrl: "/images/testimonials/jim-bradley.png",
+    avatarUrl: "/images/testimonials/scifi-1.gif",
     comment:
       "The efficiency boost is undeniable. This platform has transformed our workflow, forever.",
   },

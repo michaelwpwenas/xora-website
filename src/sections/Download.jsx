@@ -14,9 +14,9 @@ const Download = () => {
             <div className="relative mr-6 flex-540 max-xl:flex-280 max-lg:flex256 max-md:flex-100">
               <div className="mb-10">
                 <img
-                  src="/images/michael.png"
-                  width={160}
-                  height={55}
+                  src="/images/cockpit.jpg"
+                  width={310}
+                  height={100}
                   alt="xora"
                 />
               </div>
@@ -59,7 +59,7 @@ const Download = () => {
                   <span className="download_preview-dot left-16 bg-p1/15" />
 
                   <img
-                    src="/images/cockpit.jpg"
+                    src="/images/spaceship.gif"
                     width={855}
                     height={655}
                     alt="screen"
