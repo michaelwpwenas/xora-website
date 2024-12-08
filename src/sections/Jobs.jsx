@@ -22,13 +22,13 @@ const Jobs = () => {
                 className={clsx("jobs-head_btn", monthly && "text-p4")}
                 onClick={() => setMonthly(true)}
               >
-                Human
+                Bio
               </button>
               <button
                 className={clsx("jobs-head_btn", !monthly && "text-p4")}
                 onClick={() => setMonthly(false)}
               >
-                Alien
+                Mech
               </button>
 
               <div

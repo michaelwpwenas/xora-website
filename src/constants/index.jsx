@@ -27,85 +27,85 @@ export const details = [
   {
     id: "0",
     icon: "/images/detail-1.png",
-    title: "AI automated video editing",
+    title: "OI-automated cosmic engineering",
   },
   {
     id: "1",
     icon: "/images/detail-2.png",
-    title: "Collaborate with your team",
+    title: "Merge your mind with other sentients",
   },
   {
     id: "2",
     icon: "/images/detail-3.png",
-    title: "Ultra fast cloud-engine",
+    title: "Ultra fast manifestations",
   },
   {
     id: "3",
     icon: "/images/detail-4.png",
-    title: "24 / 7 Customer support",
+    title: "24 / 7 Citizenship support",
   },
 ];
 
 export const faq = [
   {
     id: "0",
-    question: "How easy is it to setup Xora?",
+    question: "How easy is it to setup Navajagat?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Pater noster, qui es in caelis, Sanctificetur nomen tuum, Adveniat regnum tuum, Fiat voluntas tua, Sicut in caelo et in terra. Panem nostrum quotidianum da nobis hodie, Et dimitte nobis debita nostra, Sicut et nos dimittimus debitoribus nostris. Et ne nos inducas in tentationem, Sed libera nos a malo.",
   },
   {
     id: "1",
-    question: "Can I integrate Xora with other platforms?",
+    question: "Can I integrate Navajagat with other platforms?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Pater noster, qui es in caelis, Sanctificetur nomen tuum, Adveniat regnum tuum, Fiat voluntas tua, Sicut in caelo et in terra. Panem nostrum quotidianum da nobis hodie, Et dimitte nobis debita nostra, Sicut et nos dimittimus debitoribus nostris. Et ne nos inducas in tentationem, Sed libera nos a malo.",
   },
   {
     id: "2",
     question: "How often do you add new content?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Pater noster, qui es in caelis, Sanctificetur nomen tuum, Adveniat regnum tuum, Fiat voluntas tua, Sicut in caelo et in terra. Panem nostrum quotidianum da nobis hodie, Et dimitte nobis debita nostra, Sicut et nos dimittimus debitoribus nostris. Et ne nos inducas in tentationem, Sed libera nos a malo.",
   },
   {
     id: "3",
     question: "What your refund policy?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Pater noster, qui es in caelis, Sanctificetur nomen tuum, Adveniat regnum tuum, Fiat voluntas tua, Sicut in caelo et in terra. Panem nostrum quotidianum da nobis hodie, Et dimitte nobis debita nostra, Sicut et nos dimittimus debitoribus nostris. Et ne nos inducas in tentationem, Sed libera nos a malo.",
   },
   {
     id: "4",
     question: "Do you have corporate plans?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Pater noster, qui es in caelis, Sanctificetur nomen tuum, Adveniat regnum tuum, Fiat voluntas tua, Sicut in caelo et in terra. Panem nostrum quotidianum da nobis hodie, Et dimitte nobis debita nostra, Sicut et nos dimittimus debitoribus nostris. Et ne nos inducas in tentationem, Sed libera nos a malo.",
   },
   {
     id: "5",
     question: "What happens when I’m out of storage?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Pater noster, qui es in caelis, Sanctificetur nomen tuum, Adveniat regnum tuum, Fiat voluntas tua, Sicut in caelo et in terra. Panem nostrum quotidianum da nobis hodie, Et dimitte nobis debita nostra, Sicut et nos dimittimus debitoribus nostris. Et ne nos inducas in tentationem, Sed libera nos a malo.",
   },
   {
     id: "6",
     question: "Can I upgrade my plan?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Pater noster, qui es in caelis, Sanctificetur nomen tuum, Adveniat regnum tuum, Fiat voluntas tua, Sicut in caelo et in terra. Panem nostrum quotidianum da nobis hodie, Et dimitte nobis debita nostra, Sicut et nos dimittimus debitoribus nostris. Et ne nos inducas in tentationem, Sed libera nos a malo.",
   },
   {
     id: "7",
     question: "How do I invite my team?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Pater noster, qui es in caelis, Sanctificetur nomen tuum, Adveniat regnum tuum, Fiat voluntas tua, Sicut in caelo et in terra. Panem nostrum quotidianum da nobis hodie, Et dimitte nobis debita nostra, Sicut et nos dimittimus debitoribus nostris. Et ne nos inducas in tentationem, Sed libera nos a malo.",
   },
   {
     id: "8",
     question: "Do you offer training for individuals and teams?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Pater noster, qui es in caelis, Sanctificetur nomen tuum, Adveniat regnum tuum, Fiat voluntas tua, Sicut in caelo et in terra. Panem nostrum quotidianum da nobis hodie, Et dimitte nobis debita nostra, Sicut et nos dimittimus debitoribus nostris. Et ne nos inducas in tentationem, Sed libera nos a malo.",
   },
   {
     id: "9",
     question: "I’m locked out of my account what do I do?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Pater noster, qui es in caelis, Sanctificetur nomen tuum, Adveniat regnum tuum, Fiat voluntas tua, Sicut in caelo et in terra. Panem nostrum quotidianum da nobis hodie, Et dimitte nobis debita nostra, Sicut et nos dimittimus debitoribus nostris. Et ne nos inducas in tentationem, Sed libera nos a malo.",
   },
 ];
 
@@ -160,48 +160,48 @@ export const plans = [
 export const testimonials = [
   {
     id: "0",
-    name: "Jessica Saunders",
-    role: "Globalnomads",
+    name: "Jessica Skywalker",
+    role: "Coelispices Guild of Bene Magdala",
     avatarUrl: "/images/testimonials/jessica-saunders.png",
     comment:
-      "Xora's customer support is second to none! They’re like my tech superheroes, always there when I need them.",
+      "Navajagat's citizen support is second to none! They’re like my tech superheroes, always there when I need them.",
   },
   {
     id: "1",
-    name: "Mark Erixon",
-    role: "Vid capital intl",
+    name: "Marxxerion",
+    role: "Aluxhim Socialist Republic of Alpha Centauri",
     avatarUrl: "/images/testimonials/mark-erixon.png",
     comment:
       "I was skeptical at first, but now I can't imagine our content operations without it. It's that impactful.",
   },
   {
     id: "2",
-    name: "Melanie Hurst",
-    role: "Cyberleap",
+    name: "Melon Urst",
+    role: "Coelispices Guild of the Stoneworkers",
     avatarUrl: "/images/testimonials/melanie-hurst.png",
     comment:
       "Adopting this software was a breeze. It's made everyday tasks so much simpler.",
   },
   {
     id: "3",
-    name: "Alicia Barker",
-    role: "Cyberleap",
+    name: "Alizba'k",
+    role: "Aluxhim Socialist Republic of Sola Prima",
     avatarUrl: "/images/testimonials/alicia-barker.png",
     comment:
-      "The analytics feature is like having a personal fortune teller. It's been instrumental in guiding our business decisions.",
+      "The analytics feature is like having a personal fortune teller. It's been instrumental in guiding our administrative decisions.",
   },
   {
     id: "4",
-    name: "Becky Snider",
-    role: "Floclips",
+    name: "Backsneeze",
+    role: "Anarchist Scum from Orion's Belt",
     avatarUrl: "/images/testimonials/becky-snider.png",
     comment:
-      "Switched to Xora last month, and I'm already seeing results. Best decision for our team!",
+      "Switched on to this last month, and I guess I'm already seeing results. Eh, I guess I like the interface?",
   },
   {
     id: "5",
-    name: "Jim Bradley",
-    role: "Vid capital intl",
+    name: "Jim Neptune",
+    role: "Coelispices Guild of the Lotus Order",
     avatarUrl: "/images/testimonials/jim-bradley.png",
     comment:
       "The efficiency boost is undeniable. This platform has transformed our workflow, forever.",
@@ -211,37 +211,37 @@ export const testimonials = [
 export const logos = [
   {
     id: "0",
-    title: "Afterpay",
-    url: "/images/logos/afterpay.svg",
-    width: 156,
+    title: "Aliens",
+    url: "/images/aliens.png",
+    width: 100,
     height: 48,
   },
   {
     id: "1",
-    title: "Amplitude",
-    url: "/images/logos/amplitude.svg",
-    width: 194,
+    title: "UFO",
+    url: "/images/ufo.png",
+    width: 100,
     height: 48,
   },
   {
     id: "2",
-    title: "Sonos",
-    url: "/images/logos/sonos.svg",
-    width: 115,
+    title: "Cyberspace",
+    url: "/images/cyberspace.png",
+    width: 100,
     height: 48,
   },
   {
     id: "3",
-    title: "Maze",
-    url: "/images/logos/maze.svg",
-    width: 142,
+    title: "Bioniceye",
+    url: "/images/bionic-eye.png",
+    width: 100,
     height: 48,
   },
   {
     id: "4",
-    title: "Drips",
-    url: "/images/logos/drips.svg",
-    width: 77,
+    title: "UFO-2",
+    url: "/images/aliens.png",
+    width: 100,
     height: 48,
   },
 ];
@@ -377,7 +377,7 @@ export const Web = () => {
 export const links = [
   {
     id: "0",
-    title: "Ios",
+    title: "Aliens",
     icon: <Ios />,
     url: "#",
   },
